@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+My name is Fan Zhang. 👦🏻 🌈
+
+I obtained my Bachelor degree in Electrical Engineering at South China University of Technology, Guangzhou, China 🇨🇳  
+and am a current grad student at Northeastern University, Silicon Valley campus 🇺🇸, studying Computer Software Engineering. 🏫
+
+I am currently in love with mobile 📱 ⌚️ and front-end 🖥 engineering. (and Flutter and SwiftUI rock!) 🔥
+
+### Find me on 📱
+
+1. [LinkedIn](https://www.linkedin.com/in/fan-zhang-sv/)
+2. [Portfolio](https://fanzhang.pro/)
+
 <!--
 **fan-zhang-sv/fan-zhang-sv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
