@@ -5,7 +5,7 @@ My name is Fan Zhang. 👦🏻 🌈
 I obtained my Bachelor degree in Electrical Engineering at South China University of Technology, Guangzhou, China 🇨🇳  
 and am a current grad student at Northeastern University, Silicon Valley campus 🇺🇸, studying Computer Software Engineering. 🏫
 
-I am currently in love with mobile 📱 ⌚️ and front-end 🖥 engineering. (and Flutter and SwiftUI rock!) 🔥
+I am currently in love with mobile 📱 ⌚️ and front-end 🖥 engineering. (SwiftUI & React rock!) 🔥
 
 ### Find me on 📱
 
