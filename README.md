@@ -10,7 +10,7 @@ I am currently in love with mobile 📱 ⌚️ and front-end 🖥 engineering. (
 ### Find me on 📱
 
 1. [LinkedIn](https://www.linkedin.com/in/fan-zhang-sv/)
-2. [Portfolio](https://fanzhang.pro/)
+2. [Portfolio](https://felixzhang.pro/)
 
 <!--
 **fan-zhang-sv/fan-zhang-sv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
