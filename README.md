@@ -2,10 +2,7 @@
 
 My name is Felix Zhang. 👦🏻 🌈
 
-I obtained my Bachelor degree in Electrical Engineering at South China University of Technology, Guangzhou, China 🇨🇳  
-and am a current grad student at Northeastern University, Silicon Valley campus 🇺🇸, studying Computer Software Engineering. 🏫
-
-I am currently in love with mobile 📱 ⌚️ and front-end 🖥 engineering. (SwiftUI & React rock!) 🔥
+I do mobile 📱 ⌚️ and front-end 🖥 engineering. (I mostly use SwiftUI & React)
 
 ### Find me on 📱
 
