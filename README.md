@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Fan Zhang. 👦🏻 🌈
+My name is Felix Zhang. 👦🏻 🌈
 
 I obtained my Bachelor degree in Electrical Engineering at South China University of Technology, Guangzhou, China 🇨🇳  
 and am a current grad student at Northeastern University, Silicon Valley campus 🇺🇸, studying Computer Software Engineering. 🏫
