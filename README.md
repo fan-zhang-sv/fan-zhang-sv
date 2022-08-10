@@ -2,7 +2,7 @@
 
 My name is Felix Zhang. 👦🏻
 
-I do mobile 📱 ⌚️ and front-end 🖥 engineering. (I mostly use SwiftUI & React)
+I do front-end 🖥 and mobile 📱 ⌚️ engineering. (I mostly use React, RN, and SwiftUI)
 
 ### Find me on 📱
 
