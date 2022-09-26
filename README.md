@@ -7,4 +7,4 @@ I do front-end 🖥 and mobile 📱 ⌚️ engineering. (I mostly use React, RN,
 ### Find me on 📱
 
 1. [LinkedIn](https://www.linkedin.com/in/fan-zhang-sv/)
-2. [Portfolio](https://felixzhang.pro/)
+2. [Portfolio](https://felixzhang.us/)
